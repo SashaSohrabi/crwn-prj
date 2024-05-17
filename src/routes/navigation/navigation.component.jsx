@@ -2,6 +2,9 @@ import { useContext } from 'react';
 import { UserContext } from '../../contexts/user.context';
 import { Outlet, Link } from 'react-router-dom';
 import { signOutUser } from '../../utils/firebase/firebase.utils';
+import CartIcon from '../../component/cart-icon/cart-icon.component';
+import CartDropdown from '../../component/cart-dropdown/cart-dropdown.component';
+
 import { ReactComponent as CrownLogo } from '../../assets/crown.svg';
 import './navigation.styles.scss';
 
@@ -27,8 +30,10 @@ const Navigation = () => {
               SIGN IN
             </Link>
           )}
+          <CartIcon/>
         </div>
       </div>
+      <CartDropdown/>
       <Outlet />
     </>
   );
