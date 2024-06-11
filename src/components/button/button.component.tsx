@@ -1,4 +1,4 @@
-import { FC, ReactNode } from 'react';
+import { FC, ReactNode, ButtonHTMLAttributes } from 'react';
 
 import {
   BaseButton,
@@ -24,7 +24,7 @@ const getButton = (buttonType = BUTTON_TYPE_CLASSES.base): ButtonComponent =>
   export type ButtonProps = {
     buttonType?: BUTTON_TYPE_CLASSES;
     children?: ReactNode;
-  }
+  } & ButtonHTMLAttributes<HTMLButtonElement>;
 
 
 const Button: FC<ButtonProps> = ({ children, buttonType, ...otherProps }) => {
