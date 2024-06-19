@@ -1,0 +1,34 @@
+{
+  "files": {
+    "main.js": "/crwn-prj/static/js/main.850317c4.js",
+    "static/js/678.0e7289e9.chunk.js": "/crwn-prj/static/js/678.0e7289e9.chunk.js",
+    "static/css/416.4c06a2f6.chunk.css": "/crwn-prj/static/css/416.4c06a2f6.chunk.css",
+    "static/js/416.d6032757.chunk.js": "/crwn-prj/static/js/416.d6032757.chunk.js",
+    "static/css/291.08bf88b5.chunk.css": "/crwn-prj/static/css/291.08bf88b5.chunk.css",
+    "static/js/291.2adb4cec.chunk.js": "/crwn-prj/static/js/291.2adb4cec.chunk.js",
+    "static/css/175.f79bd8dd.chunk.css": "/crwn-prj/static/css/175.f79bd8dd.chunk.css",
+    "static/js/175.1963a89a.chunk.js": "/crwn-prj/static/js/175.1963a89a.chunk.js",
+    "static/css/748.853a8236.chunk.css": "/crwn-prj/static/css/748.853a8236.chunk.css",
+    "static/js/748.e7e3b2ee.chunk.js": "/crwn-prj/static/js/748.e7e3b2ee.chunk.js",
+    "static/js/453.d345ee18.chunk.js": "/crwn-prj/static/js/453.d345ee18.chunk.js",
+    "static/js/842.b6aa7aed.chunk.js": "/crwn-prj/static/js/842.b6aa7aed.chunk.js",
+    "static/media/shopping-bag.svg": "/crwn-prj/static/media/shopping-bag.a688874f6f1507316bdfa420328a4a53.svg",
+    "static/media/crown.svg": "/crwn-prj/static/media/crown.3a4e2b15908e7a4c25343677d232b7e6.svg",
+    "index.html": "/crwn-prj/index.html",
+    "main.850317c4.js.map": "/crwn-prj/static/js/main.850317c4.js.map",
+    "678.0e7289e9.chunk.js.map": "/crwn-prj/static/js/678.0e7289e9.chunk.js.map",
+    "416.4c06a2f6.chunk.css.map": "/crwn-prj/static/css/416.4c06a2f6.chunk.css.map",
+    "416.d6032757.chunk.js.map": "/crwn-prj/static/js/416.d6032757.chunk.js.map",
+    "291.08bf88b5.chunk.css.map": "/crwn-prj/static/css/291.08bf88b5.chunk.css.map",
+    "291.2adb4cec.chunk.js.map": "/crwn-prj/static/js/291.2adb4cec.chunk.js.map",
+    "175.f79bd8dd.chunk.css.map": "/crwn-prj/static/css/175.f79bd8dd.chunk.css.map",
+    "175.1963a89a.chunk.js.map": "/crwn-prj/static/js/175.1963a89a.chunk.js.map",
+    "748.853a8236.chunk.css.map": "/crwn-prj/static/css/748.853a8236.chunk.css.map",
+    "748.e7e3b2ee.chunk.js.map": "/crwn-prj/static/js/748.e7e3b2ee.chunk.js.map",
+    "453.d345ee18.chunk.js.map": "/crwn-prj/static/js/453.d345ee18.chunk.js.map",
+    "842.b6aa7aed.chunk.js.map": "/crwn-prj/static/js/842.b6aa7aed.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.850317c4.js"
+  ]
+}
